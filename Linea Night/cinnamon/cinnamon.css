@@ -183,11 +183,11 @@ StButton:checked,
 .popup-menu-item:active,
 .menu-favorites-button:hover,
 .menu-category-button-selected,
-.menu-application-button-selected,
+.menu-application-button-selected,/*
 .grouped-window-list-item-box:hover,
 .grouped-window-list-item-box:active:hover,
 .window-list-item-box:hover,
-.window-list-item-box:active:hover,
+.window-list-item-box:active:hover,*/
 .workspace-graph .workspace,
 .osd-window .level,
 .panelLeft:dnd,
